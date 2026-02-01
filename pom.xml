@@ -42,6 +42,8 @@
               <mainClass>com.mycompany.app.App</mainClass>
             </manifest>
           </archive>
+            <source>8</source>
+            <target>8</target>
         </configuration>
       </plugin>
       <plugin>
